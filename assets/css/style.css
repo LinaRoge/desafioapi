@@ -1,0 +1,39 @@
+.contenedor {
+  background: darkgrey;
+  width: 280px;
+  height: 280px;
+  text-align: center;
+  margin-bottom: 20px;
+  border-radius: 5%;
+  padding: 20px;
+}
+.contenedor h1 {
+  color: white;
+  font-size: 20px;
+}
+.contenedor p {
+  color: white;
+  font-size: 20px;
+}
+button {
+  margin: 10px;
+  width: 170px;
+  color: white;
+  background-color: blue;
+  height: 30px;
+}
+.contenedorgrafica {
+  text-align: center;
+}
+.contenedorgeneral {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: black;
+}
+.grafica {
+  width: 600px;
+  height: 400px;
+}
